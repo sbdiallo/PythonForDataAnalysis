@@ -8,4 +8,10 @@
      o Visualisation des performance (courbe roc …)
      
 ## Contexte de la base de données Mushroom
-La base de données **Mushroom** fourni par UCI Machine Learning comprend des descriptions d’échantillons hypothétiques correspondant à 23 espèces de champignons provenant des familles Agaricus et Lepiota tirées du Guide de terrain des champignons nord-américains de la Société Audubon (1987). Chaque espèce est identifiée comme définitivement comestible (e) ou toxique (p).
+La base de données **Mushroom** fourni par UCI Machine Learning comprend des descriptions d’échantillons hypothétiques correspondant à 23 espèces de champignons provenant des familles Agaricus et Lepiota tirées du Guide de terrain des champignons nord-américains de la Société Audubon (1987). Chaque espèce est identifiée comme comestible (e) ou toxique (p).
+
+Nous avons dans ce dataset 22 features(le premier est le label) et 8124 observations.
+
+## Objectif
+
+Effectuer une classification binaire entre les champignons identifiés comme comestible (e) ou toxique (p)
